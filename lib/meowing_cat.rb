@@ -1,6 +1,6 @@
 class Cat
  attr_accessor:Cat
- def name
+ def name(cat)
 maru.name = "Maru"
   end## code your solution here. 
   
