@@ -1,5 +1,5 @@
 class Cat
- attr_accessor :Name
+ attr_accessor:Cat
 
   end## code your solution here. 
    
