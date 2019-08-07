@@ -4,7 +4,7 @@ class Cat
 #maru.name= "Maru"
   end## code your solution here. 
    def name=(cats_name)
-      @this_dogs_name = dogs_name
+      @this_cats_name = cats_name
   end
 def meow
   puts"meow!"
