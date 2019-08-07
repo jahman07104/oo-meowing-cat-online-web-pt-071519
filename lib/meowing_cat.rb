@@ -4,7 +4,7 @@ class Cat
 maru = Cat.new
 maru.name = "Maru"
  
-maru.name
+#maru.name
   end## code your solution here. 
    
      
