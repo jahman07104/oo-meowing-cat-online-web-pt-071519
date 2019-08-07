@@ -3,6 +3,6 @@ class Cat
  #maru = Cat.new
 #maru.name= "Maru"
   end## code your solution here. 
-def meow(cat)
+def meow
   puts"meow!"
 end
