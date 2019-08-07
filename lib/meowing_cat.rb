@@ -1,5 +1,5 @@
 class Cat
- attr_accessor :cats_name
+ attr_accessor :Cat
   @maru = Cat.new
   @maru= "Maru"
   end## code your solution here. 
