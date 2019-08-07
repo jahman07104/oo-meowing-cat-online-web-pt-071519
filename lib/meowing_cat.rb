@@ -1,6 +1,6 @@
 class Cat
  attr_accessor:Cat
- def name
+ def name(maru)
 maru = Cat.new
   end## code your solution here. 
   
