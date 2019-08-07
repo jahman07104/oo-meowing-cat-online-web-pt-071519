@@ -5,7 +5,7 @@ class Cat
   end## code your solution here. 
    def name=(cats_name)
       maru.name = "Maru"
-      
+      maru.meow
   end
 def meow
   puts"meow!"
